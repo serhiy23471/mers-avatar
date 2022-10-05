@@ -117,6 +117,34 @@ ul {
     margin-bottom: 50px;
 }
 
+/* Concept */
+
+.concept {
+    padding-top: 150px;
+    margin-bottom: 150px;
+}
+
+.concept__inner {
+    max-width: 900px;
+    margin-left: auto;
+}
+
+.section__title {
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    font-family: 'Corporate-A-Bold';
+    color: #F402A2;
+    font-size: 18px;
+}
+
+.concept__text {
+    font-size: 24px;
+    margin-bottom: 25px;
+    line-height: 120%;
+}
+
+.concept__img {}
+
 /* Footer */
 
 .footer__inner {
